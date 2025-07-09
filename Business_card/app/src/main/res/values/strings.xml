@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business_card</string>
+    <string name="name">Mark</string>
+    <string name="title">business</string>
+    <string name="num">+2383569456</string>
+    <string name="socialmedia">\@media</string>
+    <string name="email">email@dot.com</string>
+</resources>
