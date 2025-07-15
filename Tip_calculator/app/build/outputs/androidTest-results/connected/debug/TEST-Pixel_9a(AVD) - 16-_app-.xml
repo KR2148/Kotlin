@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.tiptime.TipUITests" tests="1" failures="0" errors="0" skipped="0" time="7.867" timestamp="2025-07-13T15:34:14" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_9a(AVD) - 16" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="calculate_20_percent_tip" classname="com.example.tiptime.TipUITests" time="6.249" />
+</testsuite>

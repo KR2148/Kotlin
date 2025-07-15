@@ -1,0 +1,518 @@
+07-13 21:04:04.391 10726 10743 I TestRunner: started: calculate_20_percent_tip(com.example.tiptime.TipUITests)
+07-13 21:04:04.402  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c4e9f8) locale list changing from [] to [en-US]
+07-13 21:04:04.437  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c5e718) locale list changing from [] to [en-US]
+07-13 21:04:04.462  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c66418) locale list changing from [] to [en-US]
+07-13 21:04:04.473  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c67098) locale list changing from [] to [en-US]
+07-13 21:04:04.495  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c68998) locale list changing from [] to [en-US]
+07-13 21:04:04.505  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c62bd8) locale list changing from [] to [en-US]
+07-13 21:04:04.509  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c5a898) locale list changing from [] to [en-US]
+07-13 21:04:04.518  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c58958) locale list changing from [] to [en-US]
+07-13 21:04:04.524  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c5abb8) locale list changing from [] to [en-US]
+07-13 21:04:04.529  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c65798) locale list changing from [] to [en-US]
+07-13 21:04:04.534  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c58c78) locale list changing from [] to [en-US]
+07-13 21:04:04.543  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c69f78) locale list changing from [] to [en-US]
+07-13 21:04:04.558  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c3f958) locale list changing from [] to [en-US]
+07-13 21:04:04.566  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c41578) locale list changing from [] to [en-US]
+07-13 21:04:04.571  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c3e698) locale list changing from [] to [en-US]
+07-13 21:04:04.575  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c595d8) locale list changing from [] to [en-US]
+07-13 21:04:04.578  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c40f38) locale list changing from [] to [en-US]
+07-13 21:04:04.580  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c51f18) locale list changing from [] to [en-US]
+07-13 21:04:04.588  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c5c7d8) locale list changing from [] to [en-US]
+07-13 21:04:04.596  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c65158) locale list changing from [] to [en-US]
+07-13 21:04:04.611  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c44458) locale list changing from [] to [en-US]
+07-13 21:04:04.629  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c49598) locale list changing from [] to [en-US]
+07-13 21:04:04.634  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c41898) locale list changing from [] to [en-US]
+07-13 21:04:04.647  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c47fb8) locale list changing from [] to [en-US]
+07-13 21:04:04.666  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c49278) locale list changing from [] to [en-US]
+07-13 21:04:04.760 10726 10743 W FileTestStorage: Output properties is not supported.
+07-13 21:04:04.764 10726 10743 I Tracing : Tracer added: class androidx.test.platform.tracing.AndroidXTracer
+07-13 21:04:04.782  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c4ab78) locale list changing from [] to [en-US]
+07-13 21:04:04.796  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c57058) locale list changing from [] to [en-US]
+07-13 21:04:04.800  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c53e58) locale list changing from [] to [en-US]
+07-13 21:04:04.804  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c469d8) locale list changing from [] to [en-US]
+07-13 21:04:04.811  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c6b558) locale list changing from [] to [en-US]
+07-13 21:04:04.817 10726 10726 D EventInjectionStrategy: Creating injection strategy with input manager.
+07-13 21:04:04.821 10726 10726 I example.tiptime: hiddenapi: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/InputManagerEventInjectionStrategy; (domain=app) using reflection: allowed
+07-13 21:04:04.824 10726 10726 I example.tiptime: hiddenapi: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/InputManagerEventInjectionStrategy; (domain=app) using reflection: allowed
+07-13 21:04:04.824 10726 10726 I example.tiptime: hiddenapi: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/InputManagerEventInjectionStrategy; (domain=app) using reflection: allowed
+07-13 21:04:04.841 10726 10726 I example.tiptime: hiddenapi: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/Interrogator; (domain=app) using reflection: allowed
+07-13 21:04:04.841 10726 10726 I example.tiptime: hiddenapi: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/Interrogator; (domain=app) using reflection: allowed
+07-13 21:04:04.842 10726 10726 I example.tiptime: hiddenapi: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/Interrogator; (domain=app) using reflection: allowed
+07-13 21:04:04.843  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c498b8) locale list changing from [] to [en-US]
+07-13 21:04:04.849 10726 10743 D IdlingRegistry: Registering idling resources: [androidx.compose.ui.test.EspressoLink@da2d20e]
+07-13 21:04:04.871  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c56a18) locale list changing from [] to [en-US]
+07-13 21:04:04.875  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c547b8) locale list changing from [] to [en-US]
+07-13 21:04:04.882  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c4fcb8) locale list changing from [] to [en-US]
+07-13 21:04:04.887  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c4ed18) locale list changing from [] to [en-US]
+07-13 21:04:04.890  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c4e6d8) locale list changing from [] to [en-US]
+07-13 21:04:04.893  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c5f6b8) locale list changing from [] to [en-US]
+07-13 21:04:04.899  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c5ea38) locale list changing from [] to [en-US]
+07-13 21:04:04.909  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c57698) locale list changing from [] to [en-US]
+07-13 21:04:04.913  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c50938) locale list changing from [] to [en-US]
+07-13 21:04:04.920  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c57378) locale list changing from [] to [en-US]
+07-13 21:04:04.924  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c647f8) locale list changing from [] to [en-US]
+07-13 21:04:04.935  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c5ce18) locale list changing from [] to [en-US]
+07-13 21:04:04.942  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c61c38) locale list changing from [] to [en-US]
+07-13 21:04:04.947 10726 10743 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+07-13 21:04:04.951  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c55438) locale list changing from [] to [en-US]
+07-13 21:04:04.960  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c63538) locale list changing from [] to [en-US]
+07-13 21:04:04.966  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c3da18) locale list changing from [] to [en-US]
+07-13 21:04:04.967 10726 10743 E ashmem  : Pinning is deprecated since Android Q. Please use trim or other methods.
+07-13 21:04:04.987  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c679f8) locale list changing from [] to [en-US]
+07-13 21:04:05.007  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c5d778) locale list changing from [] to [en-US]
+07-13 21:04:05.010   697  1915 I system_server: AssetManager2(0x72a312d2f6d8) locale list changing from [] to [en-US]
+07-13 21:04:05.016  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c62278) locale list changing from [] to [en-US]
+07-13 21:04:05.021  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c644d8) locale list changing from [] to [en-US]
+07-13 21:04:05.023   697  1915 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@c564a0cb does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+07-13 21:04:05.025  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c61f58) locale list changing from [] to [en-US]
+07-13 21:04:05.040  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c60018) locale list changing from [] to [en-US]
+07-13 21:04:05.064  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c40c18) locale list changing from [] to [en-US]
+07-13 21:04:05.136  1122  1122 W SplitSelectStateCtor: Missing session instanceIds
+07-13 21:04:05.138  1122  1122 D StatsLog: LAUNCHER_SPLIT_SELECTION_EXIT_INTERRUPTED
+07-13 21:04:05.156   969  1086 I ndroid.systemui: AssetManager2(0x72a312cb8df8) locale list changing from [] to [en-US]
+07-13 21:04:05.183  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c60c98) locale list changing from [] to [en-US]
+07-13 21:04:05.195  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c5e3f8) locale list changing from [] to [en-US]
+07-13 21:04:05.202  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c3b178) locale list changing from [] to [en-US]
+07-13 21:04:05.204   538   554 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+07-13 21:04:05.216   538   538 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+07-13 21:04:05.277  1119  1347 D SatelliteController: iisInCarrierRoamingNbIotNtn: satellite is disabled
+07-13 21:04:05.383   611  4241 W IPCThreadState: Sending oneway calls to frozen process.
+07-13 21:04:05.394   611  4241 W IPCThreadState: Sending oneway calls to frozen process.
+07-13 21:04:05.407 10726 10726 I example.tiptime: AssetManager2(0x72a312c42838) locale list changing from [] to [en-US]
+07-13 21:04:05.435  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c437d8) locale list changing from [] to [en-US]
+07-13 21:04:05.453  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c660f8) locale list changing from [] to [en-US]
+07-13 21:04:05.478  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c58318) locale list changing from [] to [en-US]
+07-13 21:04:05.495  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c50c58) locale list changing from [] to [en-US]
+07-13 21:04:05.541 10726 10745 I EGL_emulation: Opening libGLESv1_CM_emulation.so
+07-13 21:04:05.542 10726 10745 I EGL_emulation: Opening libGLESv2_emulation.so
+07-13 21:04:05.574 10726 10745 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+07-13 21:04:05.576 10726 10745 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+07-13 21:04:05.584 10726 10726 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@2195835 in: PRE_ON_CREATE
+07-13 21:04:05.585 10726 10726 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+07-13 21:04:05.640  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c59f38) locale list changing from [] to [en-US]
+07-13 21:04:05.662  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c52878) locale list changing from [] to [en-US]
+07-13 21:04:05.673 10726 10726 D CompatChangeReporter: Compat change id reported: 309578419; UID 10230; state: ENABLED
+07-13 21:04:05.676 10726 10726 D DesktopModeFlags: Toggle override initialized to: OVERRIDE_UNSET
+07-13 21:04:05.728  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c502f8) locale list changing from [] to [en-US]
+07-13 21:04:05.735  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c54178) locale list changing from [] to [en-US]
+07-13 21:04:05.744  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c60338) locale list changing from [] to [en-US]
+07-13 21:04:05.753  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c65dd8) locale list changing from [] to [en-US]
+07-13 21:04:05.760  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c61918) locale list changing from [] to [en-US]
+07-13 21:04:05.771 10726 10726 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@2195835 in: CREATED
+07-13 21:04:05.771 10726 10726 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.activity.ComponentActivity@2195835
+07-13 21:04:05.773 10726 10726 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@2195835 in: STARTED
+07-13 21:04:05.773 10726 10726 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.activity.ComponentActivity@2195835
+07-13 21:04:05.795  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c4d738) locale list changing from [] to [en-US]
+07-13 21:04:05.802 10726 10726 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@2195835 in: RESUMED
+07-13 21:04:05.803 10726 10726 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.activity.ComponentActivity@2195835
+07-13 21:04:05.813   697   865 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+07-13 21:04:05.816   697   865 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+07-13 21:04:05.816   697   865 D InetDiagMessage: Destroyed live tcp sockets for uids={10192} in 4ms
+07-13 21:04:05.818   697   865 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+07-13 21:04:05.819   697   865 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+07-13 21:04:05.819   697   865 D InetDiagMessage: Destroyed live tcp sockets for uids={20192} in 3ms
+07-13 21:04:05.822 10726 10726 D CompatChangeReporter: Compat change id reported: 352594277; UID 10230; state: ENABLED
+07-13 21:04:05.848  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c615f8) locale list changing from [] to [en-US]
+07-13 21:04:05.868 10726 10726 D CompatChangeReporter: Compat change id reported: 349153669; UID 10230; state: ENABLED
+07-13 21:04:05.875  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c4f998) locale list changing from [] to [en-US]
+07-13 21:04:05.880 10726 10726 W HWUI    : Unknown dataspace 0
+07-13 21:04:05.892  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c5d458) locale list changing from [] to [en-US]
+07-13 21:04:05.927   538  1186 W ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10230 pid=0
+07-13 21:04:05.927   538  1186 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10230 => denied (400 us)
+07-13 21:04:05.927   538  1186 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10230 pid=0
+07-13 21:04:05.927   538  1186 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10230 => denied (239 us)
+07-13 21:04:05.927   538   554 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10230 pid=10726
+07-13 21:04:05.927   538   554 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10230 => denied (345 us)
+07-13 21:04:05.928   538  1186 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10230 pid=0
+07-13 21:04:05.928   538  1186 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10230 => denied (897 us)
+07-13 21:04:05.929  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c68fd8) locale list changing from [] to [en-US]
+07-13 21:04:05.933   538   554 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10230 pid=10726
+07-13 21:04:05.933   538   554 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10230 => denied (5843 us)
+07-13 21:04:05.948  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c58f98) locale list changing from [] to [en-US]
+07-13 21:04:05.955  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c641b8) locale list changing from [] to [en-US]
+07-13 21:04:05.961  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c5ed58) locale list changing from [] to [en-US]
+07-13 21:04:05.991  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c67d18) locale list changing from [] to [en-US]
+07-13 21:04:06.046  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c5e0d8) locale list changing from [] to [en-US]
+07-13 21:04:06.055  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c3a1d8) locale list changing from [] to [en-US]
+07-13 21:04:06.087  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c3d3d8) locale list changing from [] to [en-US]
+07-13 21:04:06.088  1122  1122 D VRI[NexusLauncherActivity]: visibilityChanged oldVisibility=true newVisibility=false
+07-13 21:04:06.099  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c3c438) locale list changing from [] to [en-US]
+07-13 21:04:06.112  1122  1122 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=7}
+07-13 21:04:06.115  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c43af8) locale list changing from [] to [en-US]
+07-13 21:04:06.141   697  1904 W ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10230 pid=0
+07-13 21:04:06.141   697  1904 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10230 => denied (200 us)
+07-13 21:04:06.141   697  1904 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10230 pid=0
+07-13 21:04:06.142   697  1904 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10230 => denied (550 us)
+07-13 21:04:06.142   697  1904 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10230 pid=0
+07-13 21:04:06.142   697  1904 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10230 => denied (127 us)
+07-13 21:04:06.172  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c5da98) locale list changing from [] to [en-US]
+07-13 21:04:06.190  1122  1122 D BaseDepthController: setSurface:
+07-13 21:04:06.190  1122  1122 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+07-13 21:04:06.190  1122  1122 D BaseDepthController: 	mBaseSurface: null
+07-13 21:04:06.190  1122  1122 D BaseDepthController: mSurface is null and mCurrentBlur is: 0
+07-13 21:04:06.196  1122  1122 D StateManager: goToState - fromState: Normal, toState: Normal, partial trace:
+07-13 21:04:06.196  1122  1122 D StateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme ee19ec8c009da7af1d458e7d1683a6f5bf3b93b44f6674aa108e1a3e78584fe0:4)
+07-13 21:04:06.196  1122  1122 D StateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme ee19ec8c009da7af1d458e7d1683a6f5bf3b93b44f6674aa108e1a3e78584fe0:1)
+07-13 21:04:06.196  1122  1122 D StateManager: 	at com.android.launcher3.statemanager.StatefulActivity.onStop(go/retraceme ee19ec8c009da7af1d458e7d1683a6f5bf3b93b44f6674aa108e1a3e78584fe0:34)
+07-13 21:04:06.197  1122  1122 D StatsLog: LAUNCHER_ONSTOP
+07-13 21:04:06.202  1122  1122 D StatsLog: LAUNCHER_GOOGLE_SEARCH_RESTORE_LIST_SIZE_AFTER_ACTIVITY_RESTART
+07-13 21:04:06.210   697   726 I ActivityTaskManager: Displayed com.example.tiptime/androidx.activity.ComponentActivity for user 0: +1s201ms
+07-13 21:04:06.309   697   828 I ImeTracker: com.example.tiptime:fc00c8a3: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+07-13 21:04:06.341 10726 10726 D InsetsController: hide(ime(), fromIme=false)
+07-13 21:04:06.346 10726 10726 I ImeTracker: com.example.tiptime:fc00c8a3: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+07-13 21:04:06.482   697  1904 I ImeTracker: system_server:bc9177c0: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+07-13 21:04:06.492   611  4241 W IPCThreadState: Sending oneway calls to frozen process.
+07-13 21:04:06.492   611  4241 W IPCThreadState: Sending oneway calls to frozen process.
+07-13 21:04:06.493   697   729 I ImeTracker: system_server:bc9177c0: onCancelled at PHASE_SERVER_SHOULD_HIDE
+07-13 21:04:06.508  1466  1466 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2043
+07-13 21:04:06.535  1122  1138 W s.nexuslauncher: Reducing the number of considered missed Gc histogram windows from 139 to 100
+07-13 21:04:06.543  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c3ff98) locale list changing from [] to [en-US]
+07-13 21:04:06.559   969  1086 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda13@e1eb897
+07-13 21:04:06.569  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c44db8) locale list changing from [] to [en-US]
+07-13 21:04:06.581  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c3e9b8) locale list changing from [] to [en-US]
+07-13 21:04:06.593  1466  1466 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+07-13 21:04:06.604  1466  1466 W NotificationCenter: NotificationCenter$NotificationQueue.notifyPendingNotificationsOnExecutor():877 Heavy notify work detected on UI thread: [kig->khg, kig->ilu, kig->fro, kig->imt, kig->ilu, kig->ilu, kig->ilu, kig->lux, kig->fef, kig->khc, kig->ilu, kig->gkl, kig->fcb, kig->ilu, kig->ijm, kig->ilu, kig->ilu, kig->ilu, kig->jnx, kig->ilu, kig->ilu, kig->ilu, kig->jvb, kig->ilu, kig->ilu] takes 41ms
+07-13 21:04:06.614  1254  1594 I FontLog : (REDACTED) Received query %s, URI %s
+07-13 21:04:06.624  1254  1594 I FontLog : (REDACTED) Query [%s] resolved to %s
+07-13 21:04:06.637  1466  1466 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1293 onStartInput(EditorInfo{EditorInfo{packageName=com.example.tiptime, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+07-13 21:04:06.647  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c408f8) locale list changing from [] to [en-US]
+07-13 21:04:06.659  1466  1466 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+07-13 21:04:06.678  1466  1466 W NotificationCenter: NotificationCenter$NotificationQueue.notifyPendingNotificationsOnExecutor():877 Heavy notify work detected on UI thread: [kig->khg, kig->ilu, kig->fro, kig->imt, kig->ilu, kig->ilu, kig->ilu, kig->lux, kig->fef, kig->khc, kig->ilu, kig->gkl, kig->fcb, kig->ilu, kig->ijm, kig->ilu, kig->ilu, kig->ilu, kig->jnx, kig->ilu, kig->ilu, kig->ilu, kig->jvb, kig->ilu, kig->ilu] takes 23ms
+07-13 21:04:06.678  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c45718) locale list changing from [] to [en-US]
+07-13 21:04:06.709  1254  1594 I FontLog : (REDACTED) Fetch %s end status %s
+07-13 21:04:06.791  1254  1594 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+07-13 21:04:06.872  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c421f8) locale list changing from [] to [en-US]
+07-13 21:04:06.898  1254  1594 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+07-13 21:04:06.967  1518  1667 I .apps.wellbeing: AssetManager2(0x72a312c41bb8) locale list changing from [] to [en-US]
+07-13 21:04:07.020 10726 10731 I example.tiptime: Compiler allocated 5042KB to compile void android.view.ViewRootImpl.performTraversals()
+07-13 21:04:07.139  1518  1668 I .apps.wellbeing: AssetManager2(0x72a312c4e9f8) locale list changing from [] to [en-US]
+07-13 21:04:07.144  1518  1668 I .apps.wellbeing: AssetManager2(0x72a312c4f038) locale list changing from [] to [en-US]
+07-13 21:04:07.148  1518  1668 I .apps.wellbeing: AssetManager2(0x72a312c52b98) locale list changing from [] to [en-US]
+07-13 21:04:07.159  1518  1668 I .apps.wellbeing: AssetManager2(0x72a312c66d78) locale list changing from [] to [en-US]
+07-13 21:04:07.165  1518  1668 I .apps.wellbeing: AssetManager2(0x72a312c4bb18) locale list changing from [] to [en-US]
+07-13 21:04:07.169  1518  1668 I .apps.wellbeing: AssetManager2(0x72a312c47c98) locale list changing from [] to [en-US]
+07-13 21:04:07.173  1518  1668 I .apps.wellbeing: AssetManager2(0x72a312c4ffd8) locale list changing from [] to [en-US]
+07-13 21:04:07.178  1518  1668 I .apps.wellbeing: AssetManager2(0x72a312c6bb98) locale list changing from [] to [en-US]
+07-13 21:04:07.181  1518  1668 I .apps.wellbeing: AssetManager2(0x72a312c641b8) locale list changing from [] to [en-US]
+07-13 21:04:07.191  1518  1668 I .apps.wellbeing: AssetManager2(0x72a312c5caf8) locale list changing from [] to [en-US]
+07-13 21:04:07.196  1518  1668 I .apps.wellbeing: AssetManager2(0x72a312c63e98) locale list changing from [] to [en-US]
+07-13 21:04:07.201  1518  1668 I .apps.wellbeing: AssetManager2(0x72a312c68fd8) locale list changing from [] to [en-US]
+07-13 21:04:07.204  1518  1668 I .apps.wellbeing: AssetManager2(0x72a312c4f998) locale list changing from [] to [en-US]
+07-13 21:04:07.211  1518  1668 I .apps.wellbeing: AssetManager2(0x72a312c5f078) locale list changing from [] to [en-US]
+07-13 21:04:07.212  1518  1668 I .apps.wellbeing: AssetManager2(0x72a312c4d738) locale list changing from [] to [en-US]
+07-13 21:04:07.216  1518  1668 I .apps.wellbeing: AssetManager2(0x72a312c615f8) locale list changing from [] to [en-US]
+07-13 21:04:07.222  1518  1668 I .apps.wellbeing: AssetManager2(0x72a312c60338) locale list changing from [] to [en-US]
+07-13 21:04:07.224  1518  1668 I .apps.wellbeing: AssetManager2(0x72a312c4f358) locale list changing from [] to [en-US]
+07-13 21:04:07.227  1518  1668 I .apps.wellbeing: AssetManager2(0x72a312c4e3b8) locale list changing from [] to [en-US]
+07-13 21:04:07.228  1518  1668 I .apps.wellbeing: AssetManager2(0x72a312c65dd8) locale list changing from [] to [en-US]
+07-13 21:04:07.229  1518  1668 I .apps.wellbeing: AssetManager2(0x72a312c50618) locale list changing from [] to [en-US]
+07-13 21:04:07.231  1518  1668 I .apps.wellbeing: AssetManager2(0x72a312c5a258) locale list changing from [] to [en-US]
+07-13 21:04:07.232  1518  1668 I .apps.wellbeing: AssetManager2(0x72a312c53b38) locale list changing from [] to [en-US]
+07-13 21:04:08.092 10726 10726 I Choreographer: Skipped 70 frames!  The application may be doing too much work on its main thread.
+07-13 21:04:08.319 10726 10755 I HWUI    : Davey! duration=1385ms; Flags=0, FrameTimelineVsyncId=906412, IntendedVsync=36254013712220, Vsync=36255180378840, InputEventId=0, HandleInputStart=36255191175300, AnimationStart=36255191225500, PerformTraversalsStart=36255237082200, DrawStart=36255329059200, FrameDeadline=36254030378886, FrameStartTime=36255190623500, FrameInterval=16666666, WorkloadTarget=16666666, SyncQueued=36255358088700, SyncStart=36255358372100, IssueDrawCommandsStart=36255358433500, SwapBuffers=36255397732300, FrameCompleted=36255399560600, DequeueBufferDuration=18400, QueueBufferDuration=1050200, GpuCompleted=36255399461300, SwapBuffersCompleted=36255399560600, DisplayPresentTime=0, CommandSubmissionCompleted=36255397732300,
+07-13 21:04:08.398 10726 10726 D InsetsController: show(ime(), fromIme=false)
+07-13 21:04:08.399 10726 10726 I ImeTracker: com.example.tiptime:69e4a9e: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT_BY_INSETS_API fromUser false
+07-13 21:04:08.400  1466  1466 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2043
+07-13 21:04:08.402  1466  1466 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+07-13 21:04:08.407  1466  1466 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1293 onStartInput(EditorInfo{EditorInfo{packageName=com.example.tiptime, inputType=2, inputTypeString=Number, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=2000005, privateImeOptions=null, actionName=NEXT, actionLabel=null, initialSelStart=0, initialSelEnd=0, initialCapsMode=0, label=null, fieldId=-1, fieldName=null, extras=Bundle[mParcelledData.dataSize=404], hintText=null, hintLocales=[]}}, false)
+07-13 21:04:08.519  1466  1466 E InputConnectionWrapper: InputConnectionWrapper.waitForInputConnectionFutureInternal():1688 Failed to get the input connection call's result.
+07-13 21:04:08.519  1466  1466 E InputConnectionWrapper: java.util.concurrent.TimeoutException: Waited 100 milliseconds (plus 1 milliseconds, 74900 nanoseconds delay) for qfs@b9ac2f3[status=PENDING, info=[task=[running=[RUNNING ON ICWrapper-1], euq@33d3bb0]]]
+07-13 21:04:08.519  1466  1466 E InputConnectionWrapper: 	at qcq.get(PG:52)
+07-13 21:04:08.519  1466  1466 E InputConnectionWrapper: 	at kcs.e(PG:10)
+07-13 21:04:08.519  1466  1466 E InputConnectionWrapper: 	at kcs.d(PG:20)
+07-13 21:04:08.519  1466  1466 E InputConnectionWrapper: 	at kcs.s(PG:56)
+07-13 21:04:08.519  1466  1466 E InputConnectionWrapper: 	at kfo.k(PG:7)
+07-13 21:04:08.519  1466  1466 E InputConnectionWrapper: 	at kfo.j(PG:40)
+07-13 21:04:08.519  1466  1466 E InputConnectionWrapper: 	at kfo.f(PG:37)
+07-13 21:04:08.519  1466  1466 E InputConnectionWrapper: 	at dbj.v(PG:90)
+07-13 21:04:08.519  1466  1466 E InputConnectionWrapper: 	at kgn.onStartInput(PG:206)
+07-13 21:04:08.519  1466  1466 E InputConnectionWrapper: 	at android.inputmethodservice.InputMethodService.doStartInput(InputMethodService.java:3521)
+07-13 21:04:08.519  1466  1466 E InputConnectionWrapper: 	at android.inputmethodservice.InputMethodService$InputMethodImpl.startInput(InputMethodService.java:879)
+07-13 21:04:08.519  1466  1466 E InputConnectionWrapper: 	at android.inputmethodservice.InputMethodService$InputMethodImpl.dispatchStartInput(InputMethodService.java:908)
+07-13 21:04:08.519  1466  1466 E InputConnectionWrapper: 	at android.inputmethodservice.IInputMethodWrapper.executeMessage(IInputMethodWrapper.java:201)
+07-13 21:04:08.519  1466  1466 E InputConnectionWrapper: 	at com.android.internal.os.HandlerCaller$MyHandler.handleMessage(HandlerCaller.java:44)
+07-13 21:04:08.519  1466  1466 E InputConnectionWrapper: 	at android.os.Handler.dispatchMessage(Handler.java:110)
+07-13 21:04:08.519  1466  1466 E InputConnectionWrapper: 	at android.os.Looper.loopOnce(Looper.java:248)
+07-13 21:04:08.519  1466  1466 E InputConnectionWrapper: 	at android.os.Looper.loop(Looper.java:338)
+07-13 21:04:08.519  1466  1466 E InputConnectionWrapper: 	at android.app.ActivityThread.main(ActivityThread.java:9067)
+07-13 21:04:08.519  1466  1466 E InputConnectionWrapper: 	at java.lang.reflect.Method.invoke(Native Method)
+07-13 21:04:08.519  1466  1466 E InputConnectionWrapper: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:593)
+07-13 21:04:08.519  1466  1466 E InputConnectionWrapper: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:932)
+07-13 21:04:08.520  1466  1466 W InputConnectionWrapper: InputConnectionWrapper.recordDuration():1609 IPC IC_REQUEST_CURSOR_UPDATES took 110 ms
+07-13 21:04:08.523  1466  1466 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+07-13 21:04:08.526  1466  1466 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():182 Unregister key sequence lsr{labelResId=0, callback=fjq@435289c, lastModifier=0, keyCodes=[57, 57], actions=[1, 0]}
+07-13 21:04:08.527  1466  1466 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():182 Unregister key sequence lsr{labelResId=0, callback=fjq@e986e2b, lastModifier=0, keyCodes=[58, 58], actions=[1, 0]}
+07-13 21:04:08.533  1466  1466 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1293 onStartInput(EditorInfo{EditorInfo{packageName=com.example.tiptime, inputType=2, inputTypeString=Number, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=2000005, privateImeOptions=null, actionName=NEXT, actionLabel=null, initialSelStart=0, initialSelEnd=0, initialCapsMode=0, label=null, fieldId=-1, fieldName=null, extras=Bundle[mParcelledData.dataSize=404], hintText=null, hintLocales=[]}}, true)
+07-13 21:04:08.533  1466  1466 W SessionManager: SessionManager.beginSession():53 Try to begin an already begun session [INPUT_SESSION], end it first
+07-13 21:04:08.632 10726 10726 I ImeTracker: com.example.tiptime:d0ac54a1: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+07-13 21:04:08.633 10726 10726 D InsetsController: show(ime(), fromIme=false)
+07-13 21:04:08.633 10726 10726 I ImeTracker: com.example.tiptime:d0ac54a1: onCancelled at PHASE_CLIENT_REPORT_REQUESTED_VISIBLE_TYPES
+07-13 21:04:08.636 10726 10726 W RemoteInputConnectionImpl: requestCursorUpdates on inactive InputConnection
+07-13 21:04:08.638  1466  1466 E InputConnectionWrapper: InputConnectionWrapper.waitForInputConnectionFutureInternal():1688 Failed to get the input connection call's result.
+07-13 21:04:08.638  1466  1466 E InputConnectionWrapper: java.util.concurrent.TimeoutException: Waited 100 milliseconds (plus 1 milliseconds, 723100 nanoseconds delay) for qfs@336faba[status=PENDING, info=[task=[running=[NOT STARTED YET], euq@4a99d6b]]]
+07-13 21:04:08.638  1466  1466 E InputConnectionWrapper: 	at qcq.get(PG:52)
+07-13 21:04:08.638  1466  1466 E InputConnectionWrapper: 	at kcs.e(PG:10)
+07-13 21:04:08.638  1466  1466 E InputConnectionWrapper: 	at kcs.d(PG:20)
+07-13 21:04:08.638  1466  1466 E InputConnectionWrapper: 	at kcs.s(PG:56)
+07-13 21:04:08.638  1466  1466 E InputConnectionWrapper: 	at kfo.k(PG:7)
+07-13 21:04:08.638  1466  1466 E InputConnectionWrapper: 	at kfo.j(PG:40)
+07-13 21:04:08.638  1466  1466 E InputConnectionWrapper: 	at kfo.f(PG:37)
+07-13 21:04:08.638  1466  1466 E InputConnectionWrapper: 	at dbj.v(PG:90)
+07-13 21:04:08.638  1466  1466 E InputConnectionWrapper: 	at kgn.onStartInput(PG:206)
+07-13 21:04:08.638  1466  1466 E InputConnectionWrapper: 	at android.inputmethodservice.InputMethodService.doStartInput(InputMethodService.java:3521)
+07-13 21:04:08.638  1466  1466 E InputConnectionWrapper: 	at android.inputmethodservice.InputMethodService$InputMethodImpl.restartInput(InputMethodService.java:891)
+07-13 21:04:08.638  1466  1466 E InputConnectionWrapper: 	at android.inputmethodservice.InputMethodService$InputMethodImpl.dispatchStartInput(InputMethodService.java:906)
+07-13 21:04:08.638  1466  1466 E InputConnectionWrapper: 	at android.inputmethodservice.IInputMethodWrapper.executeMessage(IInputMethodWrapper.java:201)
+07-13 21:04:08.638  1466  1466 E InputConnectionWrapper: 	at com.android.internal.os.HandlerCaller$MyHandler.handleMessage(HandlerCaller.java:44)
+07-13 21:04:08.638  1466  1466 E InputConnectionWrapper: 	at android.os.Handler.dispatchMessage(Handler.java:110)
+07-13 21:04:08.638  1466  1466 E InputConnectionWrapper: 	at android.os.Looper.loopOnce(Looper.java:248)
+07-13 21:04:08.638  1466  1466 E InputConnectionWrapper: 	at android.os.Looper.loop(Looper.java:338)
+07-13 21:04:08.638  1466  1466 E InputConnectionWrapper: 	at android.app.ActivityThread.main(ActivityThread.java:9067)
+07-13 21:04:08.638  1466  1466 E InputConnectionWrapper: 	at java.lang.reflect.Method.invoke(Native Method)
+07-13 21:04:08.638  1466  1466 E InputConnectionWrapper: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:593)
+07-13 21:04:08.638  1466  1466 E InputConnectionWrapper: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:932)
+07-13 21:04:08.638  1466  1466 W InputConnectionWrapper: InputConnectionWrapper.recordDuration():1609 IPC IC_REQUEST_CURSOR_UPDATES took 104 ms
+07-13 21:04:08.641  1466  1466 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+07-13 21:04:08.645  1466  1466 I StylusModule: StylusModule.onUpdateToolType():801 Update tool type = 2
+07-13 21:04:08.658  1466  1466 I GoogleInputMethodService: GoogleInputMethodService.onStartInputView():1392 onStartInputView(EditorInfo{EditorInfo{packageName=com.example.tiptime, inputType=2, inputTypeString=Number, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=2000005, privateImeOptions=null, actionName=NEXT, actionLabel=null, initialSelStart=0, initialSelEnd=0, initialCapsMode=0, label=null, fieldId=-1, fieldName=null, extras=Bundle[{android.support.text.emoji.emojiCompat_metadataVersion=10, androidx.core.view.inputmethod.EditorInfoCompat.STYLUS_HANDWRITING_ENABLED=true, android.support.text.emoji.emojiCompat_replaceAll=false}], hintText=null, hintLocales=[]}}, false)
+07-13 21:04:08.662  1466  1466 I KeyboardHeightUtil: KeyboardHeightUtil.getOemKeyboardHeightRatio():161 systemKeyboardHeightRatio:1.000000.
+07-13 21:04:08.670  1466  1466 I AndroidIME: InputBundleManager.loadActiveInputBundleId():483 loadActiveInputBundleId: und-Latn-x-number, number
+07-13 21:04:08.671  1466  1466 I KeyboardWrapper: KeyboardWrapper.activateKeyboard():562 activateKeyboard(): type=accessory, status=0, imeDef=kyj{stringId=number, language=und-Latn-x-number, languageTag=und-Latn-x-number, processedConditions={}, className=com.google.android.libraries.inputmethod.ime.DummyIme, label=2132019005, keyEventInterpreter=null, inlineComposing=true, autoCapital=false, announceAutoSelectedCandidate=false, statusIcon=0, primeKeyboardType=SOFT, indicatorIcon=0, indicatorLabel=null, displayAppCompletions=false, extraValues=kyb{}, processors=lac@460f995, unacceptableMetaKeys=4098, languageSpecificSettings=0, asciiCapable=false, alwaysShowSuggestions=false, useAsciiPasswordKeyboard=false, secondaryIme=null, keyboardGroupDef=kzl@49f0a38, phenotypeFlagId=0, localizationLanguageTag=null, supportsInlineSuggestion=false}
+07-13 21:04:08.673  1466  1466 I KeyboardManager: KeyboardManager.requestKeyboard():248 Creating keyboard accessory, imeId=number, cacheKey=theme_!gsf_!pgsans_!pgsf_!use_system_font_BORDER=true_FLAVOR_DPI=XXHDPI_KEYBOARD_WIDTH_CATEGORY=NORMAL_LIGHT_THEME=true_PHYSICAL_DIAGONAL=6.0111027_SCREEN_SHORTEST_WIDTH=411_SCREEN_SHORTEST_WIDTH_NO_SCALE=411_bottom4dp_enable_google_fonts_icons=true_enable_popup_on_keypress=true_keyboard_redesign_google_sans=true_noshadow_overlay_builtin_dynamic_color_light_base.binarypb:gm3-light-fffaf8ff-ff475d92-6dac7c28fa7faa76f8370bbfdbc77981_silkpopup_unify_function_key_color=true
+07-13 21:04:08.678  1466  1466 I KeyboardWrapper: KeyboardWrapper.onKeyboardReady():212 onKeyboardReady(): type=accessory(accessory), kb=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard@7eb82f2
+07-13 21:04:08.678  1466  1466 I KeyboardWrapper: KeyboardWrapper.doActivateKeyboard():589 doActivateKeyboard(): accessory
+07-13 21:04:08.680  1466  1466 W Keyboard: Keyboard.getKeyboardViewHelper():597 null helper is returned: keyboardDef=kze{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f170045], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=HEADER, helpersCreated=[null, null, null, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h845dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2424) mAppBounds=Rect(0, 142 - 1080, 2361) mMaxBounds=Rect(0, 0 - 1080, 2424) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.3 s.147 fontWeightAdjustment=0}
+07-13 21:04:08.683  1466  1466 W Keyboard: Keyboard.getKeyboardViewHelper():597 null helper is returned: keyboardDef=kze{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f170045], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=BODY, helpersCreated=[null, null, null, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h845dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2424) mAppBounds=Rect(0, 142 - 1080, 2361) mMaxBounds=Rect(0, 0 - 1080, 2424) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.3 s.147 fontWeightAdjustment=0}
+07-13 21:04:08.684  1466  1466 I GlobeKeyExtension: GlobeKeyExtension.getKeyboardInitialStates():131
+07-13 21:04:08.690  1466  1466 W Keyboard: Keyboard.getKeyboardViewHelper():597 null helper is returned: keyboardDef=kze{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f170045], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=HEADER, helpersCreated=[null, null, null, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h845dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2424) mAppBounds=Rect(0, 142 - 1080, 2361) mMaxBounds=Rect(0, 0 - 1080, 2424) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.3 s.147 fontWeightAdjustment=0}
+07-13 21:04:08.691  1466  1466 W Keyboard: Keyboard.getKeyboardViewHelper():597 null helper is returned: keyboardDef=kze{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f170045], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=BODY, helpersCreated=[null, null, null, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h845dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2424) mAppBounds=Rect(0, 142 - 1080, 2361) mMaxBounds=Rect(0, 0 - 1080, 2424) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.3 s.147 fontWeightAdjustment=0}
+07-13 21:04:08.691  1466  1466 W Keyboard: Keyboard.getKeyboardViewHelper():597 null helper is returned: keyboardDef=kze{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f170045], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=FLOATING_CANDIDATES, helpersCreated=[null, null, null, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h845dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2424) mAppBounds=Rect(0, 142 - 1080, 2361) mMaxBounds=Rect(0, 0 - 1080, 2424) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.3 s.147 fontWeightAdjustment=0}
+07-13 21:04:08.691  1466  1466 W Keyboard: Keyboard.getKeyboardViewHelper():597 null helper is returned: keyboardDef=kze{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f170045], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=WIDGET, helpersCreated=[null, null, null, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h845dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2424) mAppBounds=Rect(0, 142 - 1080, 2361) mMaxBounds=Rect(0, 0 - 1080, 2424) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.3 s.147 fontWeightAdjustment=0}
+07-13 21:04:08.695  1466  1466 I KeyboardManager: KeyboardManager.requestKeyboard():248 Creating keyboard accessory_candidates_consumer, imeId=number, cacheKey=theme_!gsf_!pgsans_!pgsf_!use_system_font_BORDER=true_FLAVOR_DPI=XXHDPI_KEYBOARD_WIDTH_CATEGORY=NORMAL_LIGHT_THEME=true_PHYSICAL_DIAGONAL=6.0111027_SCREEN_SHORTEST_WIDTH=411_SCREEN_SHORTEST_WIDTH_NO_SCALE=411_bottom4dp_enable_google_fonts_icons=true_enable_popup_on_keypress=true_keyboard_redesign_google_sans=true_noshadow_overlay_builtin_dynamic_color_light_base.binarypb:gm3-light-fffaf8ff-ff475d92-6dac7c28fa7faa76f8370bbfdbc77981_silkpopup_unify_function_key_color=true
+07-13 21:04:08.705  1466  1466 I GlobeKeyExtension: GlobeKeyExtension.getKeyboardInitialStates():131
+07-13 21:04:08.709  1466  1466 W Keyboard: Keyboard.getKeyboardViewHelper():597 null helper is returned: keyboardDef=kze{processedConditions={}, globalConditions={global_theme_key=theme_!gsf_!pgsans_!pgsf_!use_system_font_BORDER=true_FLAVOR_DPI=XXHDPI_KEYBOARD_WIDTH_CATEGORY=NORMAL_LIGHT_THEME=true_PHYSICAL_DIAGONAL=6.0111027_SCREEN_SHORTEST_WIDTH=411_SCREEN_SHORTEST_WIDTH_NO_SCALE=411_bottom4dp_enable_google_fonts_icons=true_enable_popup_on_keypress=true_keyboard_redesign_google_sans=true_noshadow_overlay_builtin_dynamic_color_light_base.binarypb:gm3-light-fffaf8ff-ff475d92-6dac7c28fa7faa76f8370bbfdbc77981_silkpopup_unify_function_key_color=true, global_locale=en_US, global_density_dpi=420, global_orientation=1}, className=.latin.keyboard.AccessoryKeyboard, resourceIds=[#0x7f170044], initialStates=0, keyboardViewDefs=[kzt{direction=null, id=#0x7f0b0166, isScalable=false, layoutId=#0x7f0e002d, type=FLOATING_CANDIDATES, touchable=true, defaultShow=false}], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=#0x7f0e05ce, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=HEADER, helpersCreated=[null, null, kkl@7a63174, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h845dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2424) mAppBounds=Rect(0, 142 - 1080, 2361) mMaxBounds=Rect(0, 0 - 1080, 2424) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.3 s.147 fontWeightAdjustment=0}
+07-13 21:04:08.709  1466  1466 W Keyboard: Keyboard.getKeyboardViewHelper():597 null helper is returned: keyboardDef=kze{processedConditions={}, globalConditions={global_theme_key=theme_!gsf_!pgsans_!pgsf_!use_system_font_BORDER=true_FLAVOR_DPI=XXHDPI_KEYBOARD_WIDTH_CATEGORY=NORMAL_LIGHT_THEME=true_PHYSICAL_DIAGONAL=6.0111027_SCREEN_SHORTEST_WIDTH=411_SCREEN_SHORTEST_WIDTH_NO_SCALE=411_bottom4dp_enable_google_fonts_icons=true_enable_popup_on_keypress=true_keyboard_redesign_google_sans=true_noshadow_overlay_builtin_dynamic_color_light_base.binarypb:gm3-light-fffaf8ff-ff475d92-6dac7c28fa7faa76f8370bbfdbc77981_silkpopup_unify_function_key_color=true, global_locale=en_US, global_density_dpi=420, global_orientation=1}, className=.latin.keyboard.AccessoryKeyboard, resourceIds=[#0x7f170044], initialStates=0, keyboardViewDefs=[kzt{direction=null, id=#0x7f0b0166, isScalable=false, layoutId=#0x7f0e002d, type=FLOATING_CANDIDATES, touchable=true, defaultShow=false}], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=#0x7f0e05ce, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=BODY, helpersCreated=[null, null, kkl@7a63174, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h845dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2424) mAppBounds=Rect(0, 142 - 1080, 2361) mMaxBounds=Rect(0, 0 - 1080, 2424) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.3 s.147 fontWeightAdjustment=0}
+07-13 21:04:08.722  1466  1466 I AndroidIME: InputBundleManager.startInput():361 startInput() with kzp[keyboardType=accessory, payload=null]
+07-13 21:04:08.724  1466  1466 I GlobeKeyExtension: GlobeKeyExtension.onActivate():70
+07-13 21:04:08.728  1466  1466 I AutoPasteSuggestionHelper: AutoPasteSuggestionHelper.createProactiveSuggestions():471 Failed to create item chips.
+07-13 21:04:08.783  1466  1466 I CrowdsourceExtension: CrowdsourceExtension.checkIfDefaultBrowserIsAllowed():109 Failed to get default browser. The default browser may be deactivated.
+07-13 21:04:08.792  1466  1466 I NewLanguagePromptExtension: NewLanguagePromptExtension.onActivate():186 Not activated NewLanguagePromptExtension: not a normal text input box.
+07-13 21:04:08.795  1466  1466 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.cancelShutdown():100 cancelShutdown()
+07-13 21:04:08.795  1466  1466 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.syncLanguagePacks():112 syncLanguagePacks()
+07-13 21:04:08.798  1466  1466 I VoiceInputManager: VoiceInputManager.onKeyboardActivated():1023 onKeyboardActivated() [UD]
+07-13 21:04:08.802  1466  8539 I SpeechFactory: SpeechRecognitionFactory.maybeScheduleAutoPackDownloadForFallback():161 maybeScheduleAutoPackDownloadForFallback()
+07-13 21:04:08.803  1466  8539 I FallbackOnDeviceRecognitionProvider: FallbackOnDeviceRecognitionProvider.maybeScheduleAutoPackDownload():198 maybeScheduleAutoPackDownload() for language tag en-US
+07-13 21:04:08.804  1466  1466 I AccessoryInputModeManager: AccessoryInputModeManager.onModeStarted():322 Accessory input mode started: STYLUS
+07-13 21:04:08.806  1466  1466 W ExtensionWrapper: ExtensionWrapper.setAllowUpdateNavigationBarStyle():810 class iio is not activate
+07-13 21:04:08.806  1466  1466 I WidgetViewShowingController: WidgetViewShowingController.showWidgetKeyboardInternal():524 Show companion widget
+07-13 21:04:08.829  1466  1466 W ExtensionWrapper: ExtensionWrapper.setAllowUpdateNavigationBarStyle():810 class iio is not activate
+07-13 21:04:08.829  1466  1466 I WidgetViewShowingPositionHandler: WidgetViewShowingPositionHandler.updateAvailableArea():194 update available area Rect(21, 163 - 1059, 2357)
+07-13 21:04:08.831  1466  1466 I ProactiveUndoTriggerExtension: ProactiveUndoTriggerExtension.eventConsumer$lambda$0():125 kyp{intention=null, keyCode=-10159, ACTIVATE_SUPPLEMENTARY_KEYBOARD, data=accessory_candidates_consumer}
+07-13 21:04:08.831  1466  1466 W NotificationCenter: NotificationCenter$NotificationQueue.notifyPendingNotificationsOnExecutor():877 Heavy notify work detected on UI thread: [ikh->iik] takes 28ms
+07-13 21:04:08.833  1466  1466 I KeyboardModeUtils: KeyboardModeUtils.getKeyboardBottomOffset():437 inch: 0.000000 ydpi: 420.000000 adjustKeyboardBottomByDisplaySize: false currentDensityDpi: 420 defaultDensityDpi: 420 keyboardBottomToScreenPx: 0 keyboardBottomToNavBarPx: -63 navBarHeight: 63
+07-13 21:04:08.833  1466  1466 I ResizableKeyboardModeController: ResizableKeyboardModeController.getKeyboardBottomOffset():182 currentPrimeKeyboardType:SOFT keyboardBottomOffset:0 navBarHeight:63 isInLandscape:false
+07-13 21:04:08.834  1466  1466 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():46 leave 281 height for app when ime window height:2219, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1822
+07-13 21:04:08.835  1466  1466 W ExtensionWrapper: ExtensionWrapper.setExtensionViewVisibility():801 interface koa is not activate
+07-13 21:04:08.840  1466  1466 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+07-13 21:04:08.847  1466  1466 I CurrentMicStatusHolder: CurrentMicStatusHolder.onStartInputView():81 Current Mic status = {MicIconHidden-PasswordOrNumberOrDateInputType,}
+07-13 21:04:08.852  1577  1577 D BoundBrokerSvc: onBind: Intent { act=com.google.firebase.dynamiclinks.service.START xflg=0x4 pkg=com.google.android.gms }
+07-13 21:04:08.852  1577  1577 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.firebase.dynamiclinks.service.START xflg=0x4 pkg=com.google.android.gms }
+07-13 21:04:08.871  1466  1466 I WindowMetricsNotification: WindowMetricsNotification.notifyWithWindow():166
+07-13 21:04:08.872  1466  1466 I WindowMetricsNotification: WindowMetricsNotification.notify():159 mub[bounds=Rect(0, 142 - 1080, 2424), insets=Rect(0, 0 - 0, 63), densityDpi=420, smallestScreenWidthDp=411, displayWidth=1080, displayHeight=2424, xdpi=420.0, ydpi=420.0, isTrustable=true, displayId=0]; DisplayMetrics{density=2.625, width=1080, height=2424, scaledDensity=2.625, xdpi=420.0, ydpi=420.0}
+07-13 21:04:08.999  1466  1466 I GoogleInputMethodService: GoogleInputMethodService$1.onKeyboardViewShown():312 onKeyboardViewShown: keyboardType=accessory, keyboardViewType=HEADER keyboardView=null
+07-13 21:04:08.999  1466  1466 I GoogleInputMethodService: GoogleInputMethodService$1.onKeyboardViewShown():312 onKeyboardViewShown: keyboardType=accessory, keyboardViewType=BODY keyboardView=null
+07-13 21:04:09.126 10726 10726 D InsetsController: show(ime(), fromIme=false)
+07-13 21:04:09.127 10726 10726 I ImeTracker: com.example.tiptime:8294ce6: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT_BY_INSETS_API fromUser false
+07-13 21:04:09.127 10726 10726 I ImeTracker: com.example.tiptime:8294ce6: onCancelled at PHASE_CLIENT_REPORT_REQUESTED_VISIBLE_TYPES
+07-13 21:04:09.129   697   828 I ImeTracker: com.example.tiptime:d8a200c7: onRequestShow at ORIGIN_SERVER reason ATTACH_NEW_INPUT fromUser false
+07-13 21:04:09.135 10726 10726 W RemoteInputConnectionImpl: getSurroundingText on inactive InputConnection
+07-13 21:04:09.138  1466  1466 W InputConnectionWrapper: InputConnectionWrapper.recordDuration():1609 IPC IC_GET_SURROUNDING_TEXT took 138 ms
+07-13 21:04:09.141 10726 10726 I ImeTracker: com.example.tiptime:662d58db: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+07-13 21:04:09.141 10726 10726 D InsetsController: show(ime(), fromIme=false)
+07-13 21:04:09.142 10726 10726 I ImeTracker: com.example.tiptime:662d58db: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+07-13 21:04:09.142  1466  1466 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():46 leave 281 height for app when ime window height:2219, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1822
+07-13 21:04:09.142  1466  1466 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():46 leave 281 height for app when ime window height:2219, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1822
+07-13 21:04:09.143  1466  1466 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():46 leave 281 height for app when ime window height:2219, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1822
+07-13 21:04:09.152  1466  1466 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1293 onStartInput(EditorInfo{EditorInfo{packageName=com.example.tiptime, inputType=2, inputTypeString=Number, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=2000005, privateImeOptions=null, actionName=NEXT, actionLabel=null, initialSelStart=0, initialSelEnd=0, initialCapsMode=0, label=null, fieldId=-1, fieldName=null, extras=Bundle[mParcelledData.dataSize=404], hintText=null, hintLocales=[]}}, true)
+07-13 21:04:09.152  1466  1466 W SessionManager: SessionManager.beginSession():53 Try to begin an already begun session [INPUT_SESSION], end it first
+07-13 21:04:09.152  1466  1466 W SessionManager: SessionManager.endSession():96 Child session [INPUT_VIEW_SESSION] is not ended while ending session [{INPUT_VIEW_SESSION=1752420848659, IME_SESSION=1752420848670, INPUT_SESSION=1752420848533}], ending it now.
+07-13 21:04:09.152  1466  1466 W SessionManager: SessionManager.endSession():96 Child session [IME_SESSION] is not ended while ending session [{INPUT_VIEW_SESSION=1752420848659, IME_SESSION=1752420848670, INPUT_SESSION=1752420848533}], ending it now.
+07-13 21:04:09.161 10726 10726 W InteractionJankMonitor: Initializing without READ_DEVICE_CONFIG permission. enabled=false, interval=1, missedFrameThreshold=3, frameTimeThreshold=64, package=com.example.tiptime
+07-13 21:04:09.184  1466  1466 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+07-13 21:04:09.195  1466  1466 I GoogleInputMethodService: GoogleInputMethodService.onStartInputView():1392 onStartInputView(EditorInfo{EditorInfo{packageName=com.example.tiptime, inputType=2, inputTypeString=Number, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=2000005, privateImeOptions=null, actionName=NEXT, actionLabel=null, initialSelStart=0, initialSelEnd=0, initialCapsMode=0, label=null, fieldId=-1, fieldName=null, extras=Bundle[{android.support.text.emoji.emojiCompat_metadataVersion=10, androidx.core.view.inputmethod.EditorInfoCompat.STYLUS_HANDWRITING_ENABLED=true, android.support.text.emoji.emojiCompat_replaceAll=false}], hintText=null, hintLocales=[]}}, true)
+07-13 21:04:09.198  1466  1466 I KeyboardHeightUtil: KeyboardHeightUtil.getOemKeyboardHeightRatio():161 systemKeyboardHeightRatio:1.000000.
+07-13 21:04:09.230  1466  1466 W SessionManager: SessionManager.endSession():88 Try to end a not begun session [IME_SESSION].
+07-13 21:04:09.230  1466  1466 I AndroidIME: InputBundleManager.loadActiveInputBundleId():483 loadActiveInputBundleId: und-Latn-x-number, number
+07-13 21:04:09.231  1466  1466 I KeyboardWrapper: KeyboardWrapper.activateKeyboard():562 activateKeyboard(): type=accessory, status=0, imeDef=kyj{stringId=number, language=und-Latn-x-number, languageTag=und-Latn-x-number, processedConditions={}, className=com.google.android.libraries.inputmethod.ime.DummyIme, label=2132019005, keyEventInterpreter=null, inlineComposing=true, autoCapital=false, announceAutoSelectedCandidate=false, statusIcon=0, primeKeyboardType=SOFT, indicatorIcon=0, indicatorLabel=null, displayAppCompletions=false, extraValues=kyb{}, processors=lac@460f995, unacceptableMetaKeys=4098, languageSpecificSettings=0, asciiCapable=false, alwaysShowSuggestions=false, useAsciiPasswordKeyboard=false, secondaryIme=null, keyboardGroupDef=kzl@49f0a38, phenotypeFlagId=0, localizationLanguageTag=null, supportsInlineSuggestion=false}
+07-13 21:04:09.232  1466  1466 I KeyboardManager: KeyboardManager.requestKeyboard():248 Creating keyboard accessory, imeId=number, cacheKey=theme_!gsf_!pgsans_!pgsf_!use_system_font_BORDER=true_FLAVOR_DPI=XXHDPI_KEYBOARD_WIDTH_CATEGORY=NORMAL_LIGHT_THEME=true_PHYSICAL_DIAGONAL=6.0111027_SCREEN_SHORTEST_WIDTH=411_SCREEN_SHORTEST_WIDTH_NO_SCALE=411_bottom4dp_enable_google_fonts_icons=true_enable_popup_on_keypress=true_keyboard_redesign_google_sans=true_noshadow_overlay_builtin_dynamic_color_light_base.binarypb:gm3-light-fffaf8ff-ff475d92-6dac7c28fa7faa76f8370bbfdbc77981_silkpopup_unify_function_key_color=true
+07-13 21:04:09.239  1466  1466 I KeyboardWrapper: KeyboardWrapper.onKeyboardReady():212 onKeyboardReady(): type=accessory(accessory), kb=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard@7eb82f2
+07-13 21:04:09.239  1466  1466 I KeyboardWrapper: KeyboardWrapper.doActivateKeyboard():589 doActivateKeyboard(): accessory
+07-13 21:04:09.239  1466  1466 W Keyboard: Keyboard.getKeyboardViewHelper():597 null helper is returned: keyboardDef=kze{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f170045], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=HEADER, helpersCreated=[null, null, null, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h845dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2424) mAppBounds=Rect(0, 142 - 1080, 2361) mMaxBounds=Rect(0, 0 - 1080, 2424) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.3 s.147 fontWeightAdjustment=0}
+07-13 21:04:09.239  1466  1466 W Keyboard: Keyboard.getKeyboardViewHelper():597 null helper is returned: keyboardDef=kze{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f170045], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=BODY, helpersCreated=[null, null, null, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h845dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2424) mAppBounds=Rect(0, 142 - 1080, 2361) mMaxBounds=Rect(0, 0 - 1080, 2424) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.3 s.147 fontWeightAdjustment=0}
+07-13 21:04:09.240  1466  1466 I GlobeKeyExtension: GlobeKeyExtension.getKeyboardInitialStates():131
+07-13 21:04:09.240  1466  1466 W Keyboard: Keyboard.getKeyboardViewHelper():597 null helper is returned: keyboardDef=kze{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f170045], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=HEADER, helpersCreated=[null, null, null, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h845dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2424) mAppBounds=Rect(0, 142 - 1080, 2361) mMaxBounds=Rect(0, 0 - 1080, 2424) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.3 s.147 fontWeightAdjustment=0}
+07-13 21:04:09.240  1466  1466 W Keyboard: Keyboard.getKeyboardViewHelper():597 null helper is returned: keyboardDef=kze{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f170045], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=BODY, helpersCreated=[null, null, null, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h845dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2424) mAppBounds=Rect(0, 142 - 1080, 2361) mMaxBounds=Rect(0, 0 - 1080, 2424) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.3 s.147 fontWeightAdjustment=0}
+07-13 21:04:09.246  1466  1466 W Keyboard: Keyboard.getKeyboardViewHelper():597 null helper is returned: keyboardDef=kze{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f170045], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=FLOATING_CANDIDATES, helpersCreated=[null, null, null, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h845dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2424) mAppBounds=Rect(0, 142 - 1080, 2361) mMaxBounds=Rect(0, 0 - 1080, 2424) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.3 s.147 fontWeightAdjustment=0}
+07-13 21:04:09.247  1466  1466 W Keyboard: Keyboard.getKeyboardViewHelper():597 null helper is returned: keyboardDef=kze{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f170045], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=WIDGET, helpersCreated=[null, null, null, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h845dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2424) mAppBounds=Rect(0, 142 - 1080, 2361) mMaxBounds=Rect(0, 0 - 1080, 2424) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.3 s.147 fontWeightAdjustment=0}
+07-13 21:04:09.247  1466  1466 I KeyboardManager: KeyboardManager.requestKeyboard():248 Creating keyboard accessory_candidates_consumer, imeId=number, cacheKey=theme_!gsf_!pgsans_!pgsf_!use_system_font_BORDER=true_FLAVOR_DPI=XXHDPI_KEYBOARD_WIDTH_CATEGORY=NORMAL_LIGHT_THEME=true_PHYSICAL_DIAGONAL=6.0111027_SCREEN_SHORTEST_WIDTH=411_SCREEN_SHORTEST_WIDTH_NO_SCALE=411_bottom4dp_enable_google_fonts_icons=true_enable_popup_on_keypress=true_keyboard_redesign_google_sans=true_noshadow_overlay_builtin_dynamic_color_light_base.binarypb:gm3-light-fffaf8ff-ff475d92-6dac7c28fa7faa76f8370bbfdbc77981_silkpopup_unify_function_key_color=true
+07-13 21:04:09.248  1466  1466 I GlobeKeyExtension: GlobeKeyExtension.getKeyboardInitialStates():131
+07-13 21:04:09.254  1466  1466 W Keyboard: Keyboard.getKeyboardViewHelper():597 null helper is returned: keyboardDef=kze{processedConditions={}, globalConditions={global_theme_key=theme_!gsf_!pgsans_!pgsf_!use_system_font_BORDER=true_FLAVOR_DPI=XXHDPI_KEYBOARD_WIDTH_CATEGORY=NORMAL_LIGHT_THEME=true_PHYSICAL_DIAGONAL=6.0111027_SCREEN_SHORTEST_WIDTH=411_SCREEN_SHORTEST_WIDTH_NO_SCALE=411_bottom4dp_enable_google_fonts_icons=true_enable_popup_on_keypress=true_keyboard_redesign_google_sans=true_noshadow_overlay_builtin_dynamic_color_light_base.binarypb:gm3-light-fffaf8ff-ff475d92-6dac7c28fa7faa76f8370bbfdbc77981_silkpopup_unify_function_key_color=true, global_locale=en_US, global_density_dpi=420, global_orientation=1}, className=.latin.keyboard.AccessoryKeyboard, resourceIds=[#0x7f170044], initialStates=0, keyboardViewDefs=[kzt{direction=null, id=#0x7f0b0166, isScalable=false, layoutId=#0x7f0e002d, type=FLOATING_CANDIDATES, touchable=true, defaultShow=false}], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=#0x7f0e05ce, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=HEADER, helpersCreated=[null, null, kkl@7a63174, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h845dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2424) mAppBounds=Rect(0, 142 - 1080, 2361) mMaxBounds=Rect(0, 0 - 1080, 2424) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.3 s.147 fontWeightAdjustment=0}
+07-13 21:04:09.254  1466  1466 W Keyboard: Keyboard.getKeyboardViewHelper():597 null helper is returned: keyboardDef=kze{processedConditions={}, globalConditions={global_theme_key=theme_!gsf_!pgsans_!pgsf_!use_system_font_BORDER=true_FLAVOR_DPI=XXHDPI_KEYBOARD_WIDTH_CATEGORY=NORMAL_LIGHT_THEME=true_PHYSICAL_DIAGONAL=6.0111027_SCREEN_SHORTEST_WIDTH=411_SCREEN_SHORTEST_WIDTH_NO_SCALE=411_bottom4dp_enable_google_fonts_icons=true_enable_popup_on_keypress=true_keyboard_redesign_google_sans=true_noshadow_overlay_builtin_dynamic_color_light_base.binarypb:gm3-light-fffaf8ff-ff475d92-6dac7c28fa7faa76f8370bbfdbc77981_silkpopup_unify_function_key_color=true, global_locale=en_US, global_density_dpi=420, global_orientation=1}, className=.latin.keyboard.AccessoryKeyboard, resourceIds=[#0x7f170044], initialStates=0, keyboardViewDefs=[kzt{direction=null, id=#0x7f0b0166, isScalable=false, layoutId=#0x7f0e002d, type=FLOATING_CANDIDATES, touchable=true, defaultShow=false}], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=#0x7f0e05ce, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=BODY, helpersCreated=[null, null, kkl@7a63174, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h845dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2424) mAppBounds=Rect(0, 142 - 1080, 2361) mMaxBounds=Rect(0, 0 - 1080, 2424) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.3 s.147 fontWeightAdjustment=0}
+07-13 21:04:09.258  1466  1466 I AndroidIME: InputBundleManager.startInput():361 startInput() with kzp[keyboardType=accessory, payload=null]
+07-13 21:04:09.258  1466  1466 I GlobeKeyExtension: GlobeKeyExtension.onDeactivate():104
+07-13 21:04:09.258  1466  1466 I AutoPasteSuggestionHelper: AutoPasteSuggestionHelper.createProactiveSuggestions():471 Failed to create item chips.
+07-13 21:04:09.260  1466  1466 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.shutdown():122 shutdown()
+07-13 21:04:09.261  1466  1466 W ExtensionWrapper: ExtensionWrapper.setAllowUpdateNavigationBarStyle():810 class iio is not activate
+07-13 21:04:09.262  1466  1466 W ExtensionWrapper: ExtensionWrapper.setAllowUpdateNavigationBarStyle():810 class iio is not activate
+07-13 21:04:09.262  1466  1466 I GlobeKeyExtension: GlobeKeyExtension.onActivate():70
+07-13 21:04:09.307  1466  1466 I CrowdsourceExtension: CrowdsourceExtension.checkIfDefaultBrowserIsAllowed():109 Failed to get default browser. The default browser may be deactivated.
+07-13 21:04:09.308  1466  1466 I NewLanguagePromptExtension: NewLanguagePromptExtension.onActivate():186 Not activated NewLanguagePromptExtension: not a normal text input box.
+07-13 21:04:09.310  1466  1466 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.cancelShutdown():100 cancelShutdown()
+07-13 21:04:09.310  1466  1466 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.syncLanguagePacks():112 syncLanguagePacks()
+07-13 21:04:09.311  1466  1466 I VoiceInputManager: VoiceInputManager.onKeyboardActivated():1023 onKeyboardActivated() [UD]
+07-13 21:04:09.311  1466  8539 I SpeechFactory: SpeechRecognitionFactory.maybeScheduleAutoPackDownloadForFallback():161 maybeScheduleAutoPackDownloadForFallback()
+07-13 21:04:09.311  1466  8539 I FallbackOnDeviceRecognitionProvider: FallbackOnDeviceRecognitionProvider.maybeScheduleAutoPackDownload():198 maybeScheduleAutoPackDownload() for language tag en-US
+07-13 21:04:09.312  1466  1466 I AccessoryInputModeManager: AccessoryInputModeManager.onModeStarted():322 Accessory input mode started: STYLUS
+07-13 21:04:09.312  1466  1466 W ExtensionWrapper: ExtensionWrapper.setAllowUpdateNavigationBarStyle():810 class iio is not activate
+07-13 21:04:09.312  1466  1466 I WidgetViewShowingController: WidgetViewShowingController.showWidgetKeyboardInternal():524 Show companion widget
+07-13 21:04:09.320  1466  1466 W ExtensionWrapper: ExtensionWrapper.setAllowUpdateNavigationBarStyle():810 class iio is not activate
+07-13 21:04:09.320  1466  1466 I WidgetViewShowingPositionHandler: WidgetViewShowingPositionHandler.updateAvailableArea():194 update available area Rect(21, 163 - 1059, 2357)
+07-13 21:04:09.321  1466  1466 I ProactiveUndoTriggerExtension: ProactiveUndoTriggerExtension.eventConsumer$lambda$0():125 kyp{intention=null, keyCode=-10159, ACTIVATE_SUPPLEMENTARY_KEYBOARD, data=accessory_candidates_consumer}
+07-13 21:04:09.321  1466  1466 I KeyboardModeUtils: KeyboardModeUtils.getKeyboardBottomOffset():437 inch: 0.000000 ydpi: 420.000000 adjustKeyboardBottomByDisplaySize: false currentDensityDpi: 420 defaultDensityDpi: 420 keyboardBottomToScreenPx: 0 keyboardBottomToNavBarPx: -63 navBarHeight: 63
+07-13 21:04:09.321  1466  1466 I ResizableKeyboardModeController: ResizableKeyboardModeController.getKeyboardBottomOffset():182 currentPrimeKeyboardType:SOFT keyboardBottomOffset:0 navBarHeight:63 isInLandscape:false
+07-13 21:04:09.322  1466  1466 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():46 leave 281 height for app when ime window height:2219, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1822
+07-13 21:04:09.322  1466  1466 W ExtensionWrapper: ExtensionWrapper.setExtensionViewVisibility():801 interface koa is not activate
+07-13 21:04:09.323  1466  1466 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+07-13 21:04:09.327  1466  1466 I CurrentMicStatusHolder: CurrentMicStatusHolder.onStartInputView():81 Current Mic status = {MicIconHidden-PasswordOrNumberOrDateInputType,}
+07-13 21:04:09.331  1466  1466 I StylusModule: StylusModule.onUpdateToolType():801 Update tool type = 2
+07-13 21:04:09.336  1466  1466 I WindowMetricsNotification: WindowMetricsNotification.notifyWithWindow():166
+07-13 21:04:09.336  1466  1466 I WindowMetricsNotification: WindowMetricsNotification.notify():159 mub[bounds=Rect(0, 142 - 1080, 2424), insets=Rect(0, 0 - 0, 63), densityDpi=420, smallestScreenWidthDp=411, displayWidth=1080, displayHeight=2424, xdpi=420.0, ydpi=420.0, isTrustable=true, displayId=0]; DisplayMetrics{density=2.625, width=1080, height=2424, scaledDensity=2.625, xdpi=420.0, ydpi=420.0}
+07-13 21:04:09.343  1466  1466 I GoogleInputMethodService: GoogleInputMethodService$1.onKeyboardViewShown():312 onKeyboardViewShown: keyboardType=accessory, keyboardViewType=HEADER keyboardView=null
+07-13 21:04:09.344  1466  1466 I GoogleInputMethodService: GoogleInputMethodService$1.onKeyboardViewShown():312 onKeyboardViewShown: keyboardType=accessory, keyboardViewType=BODY keyboardView=null
+07-13 21:04:09.347  1466  1466 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():46 leave 281 height for app when ime window height:2219, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1822
+07-13 21:04:09.347  1466  1466 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():46 leave 281 height for app when ime window height:2219, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1822
+07-13 21:04:09.347  1466  1466 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():46 leave 281 height for app when ime window height:2219, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1822
+07-13 21:04:09.380 10726 10726 I ImeTracker: com.example.tiptime:69e4a9e: onShown
+07-13 21:04:09.462   697  1762 I system_server: AssetManager2(0x72a312d2f9f8) locale list changing from [] to [en-US]
+07-13 21:04:09.463   697  1762 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@c719796a does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+07-13 21:04:09.473   538   599 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+07-13 21:04:09.478   969  1086 I ndroid.systemui: AssetManager2(0x72a312ca0d98) locale list changing from [] to [en-US]
+07-13 21:04:09.482 10726 10726 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@2195835 in: PAUSED
+07-13 21:04:09.482 10726 10726 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=androidx.activity.ComponentActivity@2195835
+07-13 21:04:09.499   697   729 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@c719796a does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+07-13 21:04:09.500   538   538 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+07-13 21:04:09.508   611  4241 W IPCThreadState: Sending oneway calls to frozen process.
+07-13 21:04:09.508   611  4241 W IPCThreadState: Sending oneway calls to frozen process.
+07-13 21:04:09.519   464   464 D Zygote  : Forked child process 10760
+07-13 21:04:09.545 10760 10760 I le.tiptime.test: Late-enabling -Xcheck:jni
+07-13 21:04:09.588 10760 10760 I le.tiptime.test: Using CollectorTypeCMC GC.
+07-13 21:04:09.588 10760 10760 W le.tiptime.test: Unexpected CPU variant for x86: x86_64.
+07-13 21:04:09.588 10760 10760 W le.tiptime.test: Known variants: atom, sandybridge, silvermont, goldmont, goldmont-plus, goldmont-without-sha-xsaves, tremont, kabylake, alderlake, default
+07-13 21:04:09.596   546   564 I adbd    : jdwp connection from 10760
+07-13 21:04:09.625   546   546 W adbd    : type=1400 audit(0.0:1775): avc:  denied  { getattr } for  path="/sys/fs/cgroup/apps/uid_10231/pid_10760/cgroup.freeze" dev="cgroup2" ino=10499 scontext=u:r:adbd:s0 tcontext=u:object_r:cgroup_v2:s0 tclass=file permissive=0
+07-13 21:04:09.638 10760 10760 D nativeloader: Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+07-13 21:04:09.656   969  1043 I ndroid.systemui: AssetManager2(0x72a312c6c818) locale list changing from [] to [en-US]
+07-13 21:04:09.684 10726 10770 D ProfileInstaller: Installing profile for com.example.tiptime
+07-13 21:04:09.693   969  1043 I ndroid.systemui: AssetManager2(0x72a312c5a898) locale list changing from [] to [en-US]
+07-13 21:04:09.701 10726 10726 I ImeTracker: com.example.tiptime:d8a200c7: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+07-13 21:04:09.768   488   488 I RanchuHwc: logCompositionFallbackIfChanged: layer 122 CompositionType fallback from 3 to 1
+07-13 21:04:09.779 10760 10760 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+07-13 21:04:09.785 10760 10760 D nativeloader: Configuring clns-9 for other apk /system/framework/android.test.mock.jar. target_sdk_version=35, uses_libraries=ALL, library_path=/data/app/~~5TFeYo9wDpvtvSKf8dAtMQ==/com.example.tiptime.test-5lWOyLJd16t9YIupBZ8bAQ==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.tiptime.test
+07-13 21:04:09.787 10760 10760 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+07-13 21:04:09.789 10760 10760 D nativeloader: Configuring clns-10 for other apk /system/framework/android.test.runner.jar. target_sdk_version=35, uses_libraries=ALL, library_path=/data/app/~~5TFeYo9wDpvtvSKf8dAtMQ==/com.example.tiptime.test-5lWOyLJd16t9YIupBZ8bAQ==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.tiptime.test
+07-13 21:04:09.800  1254  1254 D BoundBrokerSvc: onRebind: Intent { act=com.google.android.gms.libs.gmscorelogger.service.START dat=chimera-action:/... xflg=0x4 cmp=com.google.android.gms/.chimera.PersistentDirectBootAwareApiService }
+07-13 21:04:09.870 10760 10760 D nativeloader: Configuring clns-11 for other apk /data/app/~~5TFeYo9wDpvtvSKf8dAtMQ==/com.example.tiptime.test-5lWOyLJd16t9YIupBZ8bAQ==/base.apk. target_sdk_version=35, uses_libraries=, library_path=/data/app/~~5TFeYo9wDpvtvSKf8dAtMQ==/com.example.tiptime.test-5lWOyLJd16t9YIupBZ8bAQ==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.tiptime.test
+07-13 21:04:09.881 10760 10760 D CompatChangeReporter: Compat change id reported: 202956589; UID 10231; state: ENABLED
+07-13 21:04:09.892 10760 10760 I le.tiptime.test: AssetManager2(0x72a312c3d3d8) locale list changing from [] to [en-US]
+07-13 21:04:09.899 10760 10760 V GraphicsEnvironment: Currently set values for:
+07-13 21:04:09.899 10760 10760 V GraphicsEnvironment:   angle_gl_driver_selection_pkgs=[]
+07-13 21:04:09.901 10760 10760 V GraphicsEnvironment:   angle_gl_driver_selection_values=[]
+07-13 21:04:09.901 10760 10760 V GraphicsEnvironment: com.example.tiptime.test is not listed in per-application setting
+07-13 21:04:09.902 10760 10760 V GraphicsEnvironment: ANGLE allowlist from config:
+07-13 21:04:09.902 10760 10760 V GraphicsEnvironment: com.example.tiptime.test is not listed in ANGLE allowlist or settings, returning default
+07-13 21:04:09.902 10760 10760 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+07-13 21:04:09.943 10760 10760 I le.tiptime.test: AssetManager2(0x72a312c38298) locale list changing from [] to [en-US]
+07-13 21:04:09.965 10760 10760 E ashmem  : Pinning is deprecated since Android Q. Please use trim or other methods.
+07-13 21:04:09.997 10760 10760 D CompatChangeReporter: Compat change id reported: 279646685; UID 10231; state: ENABLED
+07-13 21:04:10.013 10760 10775 I EGL_emulation: Opening libGLESv1_CM_emulation.so
+07-13 21:04:10.016 10760 10760 D CompatChangeReporter: Compat change id reported: 309578419; UID 10231; state: ENABLED
+07-13 21:04:10.018 10760 10775 I EGL_emulation: Opening libGLESv2_emulation.so
+07-13 21:04:10.026 10760 10760 D DesktopModeFlags: Toggle override initialized to: OVERRIDE_UNSET
+07-13 21:04:10.031 10760 10775 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+07-13 21:04:10.031 10760 10775 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+07-13 21:04:10.058 10760 10760 D CompatChangeReporter: Compat change id reported: 352594277; UID 10231; state: ENABLED
+07-13 21:04:10.076 10760 10760 D CompatChangeReporter: Compat change id reported: 349153669; UID 10231; state: ENABLED
+07-13 21:04:10.088 10760 10760 W HWUI    : Unknown dataspace 0
+07-13 21:04:10.133   538   554 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+07-13 21:04:10.149   538  1186 W ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10231 pid=10760
+07-13 21:04:10.149   538  1186 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10231 => denied (383 us)
+07-13 21:04:10.150   538   554 W ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10231 pid=0
+07-13 21:04:10.150   538   554 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10231 => denied (891 us)
+07-13 21:04:10.150   538   554 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10231 pid=0
+07-13 21:04:10.150   538   554 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10231 => denied (507 us)
+07-13 21:04:10.150   538   554 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10231 pid=0
+07-13 21:04:10.150   538   554 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10231 => denied (296 us)
+07-13 21:04:10.155   538  1186 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10231 pid=10760
+07-13 21:04:10.155   538  1186 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10231 => denied (5658 us)
+07-13 21:04:10.244   697  1910 W ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10231 pid=0
+07-13 21:04:10.244   697  1910 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10231 => denied (286 us)
+07-13 21:04:10.244   697  1910 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10231 pid=0
+07-13 21:04:10.247   697  1910 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10231 => denied (203 us)
+07-13 21:04:10.247   697  1910 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10231 pid=0
+07-13 21:04:10.247   697  1910 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10231 => denied (749 us)
+07-13 21:04:10.260  1122  1122 D ViewRootImpl: Skipping stats log for color mode
+07-13 21:04:10.273  1122  1122 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=6}
+07-13 21:04:10.280 10726 10726 D VRI[ComponentActivity]: visibilityChanged oldVisibility=true newVisibility=false
+07-13 21:04:10.303  1122  1122 D BaseDepthController: setSurface:
+07-13 21:04:10.303  1122  1122 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+07-13 21:04:10.303  1122  1122 D BaseDepthController: 	mBaseSurface: Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity)/@0x5e5d61a
+07-13 21:04:10.363   697  1915 I ImeTracker: system_server:d089a2b3: onRequestShow at ORIGIN_SERVER reason CONTROLS_CHANGED fromUser false
+07-13 21:04:10.364 10726 10726 I ImeTracker: system_server:d089a2b3: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+07-13 21:04:10.381  1122  1122 D StatsLog: LAUNCHER_ONRESUME
+07-13 21:04:10.394  1122  1122 I NotificationListener: Handling notification state refresh for com.google.android.apps.wellbeing#0
+07-13 21:04:10.395  1122  1122 I NotificationListener: Handling notification state refresh for com.google.android.adservices.api#0
+07-13 21:04:10.395  1122  1122 I NotificationListener: Handling notification state refresh for com.android.systemui#0
+07-13 21:04:10.395  1122  1122 I NotificationListener: Handling notification state refresh for android#0
+07-13 21:04:10.395  1122  1165 D QuickstepModelDelegate: notifyAppTargetEvent action=1 launchLocation=workspace/0/[-1,-1]/[1,1]
+07-13 21:04:10.429  1122  1122 D StateManager: createAtomicAnimation - fromState: Background, toState: Normal, partial trace:
+07-13 21:04:10.429  1122  1122 D StateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.prepareToAnimate(go/retraceme ee19ec8c009da7af1d458e7d1683a6f5bf3b93b44f6674aa108e1a3e78584fe0:22)
+07-13 21:04:10.429  1122  1122 D StateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.<init>(go/retraceme ee19ec8c009da7af1d458e7d1683a6f5bf3b93b44f6674aa108e1a3e78584fe0:11)
+07-13 21:04:10.429  1122  1122 D StateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme ee19ec8c009da7af1d458e7d1683a6f5bf3b93b44f6674aa108e1a3e78584fe0:339)
+07-13 21:04:10.431  1122  1122 D b/311077782: LauncherAnimationRunner.setAnimation
+07-13 21:04:10.436  1615  1789 I AiAiEcho: Predicting[0]:  [CONTEXT sampling_count=5 ]
+07-13 21:04:10.436  1615  1789 I AiAiEcho: EchoTargets:
+07-13 21:04:10.436  1615  1789 I AiAiEcho: Filtered by AiAi flag check:
+07-13 21:04:10.436  1615  1789 I AiAiEcho: [CONTEXT ratelimit_period="10 SECONDS" ]
+07-13 21:04:10.446  1615  1789 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+07-13 21:04:10.465  1615  1789 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0 (types=[])
+07-13 21:04:10.468   488   488 I RanchuHwc: logCompositionFallbackIfChanged: layer 126 CompositionType fallback from 2 to 1
+07-13 21:04:10.469   488   488 I RanchuHwc: logCompositionFallbackIfChanged: layer 125 CompositionType fallback from 2 to 1
+07-13 21:04:10.476   697   865 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+07-13 21:04:10.476   697   865 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+07-13 21:04:10.476   697   865 D InetDiagMessage: Destroyed live tcp sockets for uids={10106} in 1ms
+07-13 21:04:10.502 10726 10726 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@2195835 in: STOPPED
+07-13 21:04:10.502  1122  1122 D SsBaseTemplateCard: No text view can be set up
+07-13 21:04:10.502  1122  1122 D SsBaseTemplateCard: Passed-in item info is null
+07-13 21:04:10.502  1122  1122 D SsBaseTemplateCard: Passed-in item info is null
+07-13 21:04:10.502  1122  1122 D SsBaseTemplateCard: Passed-in item info is null
+07-13 21:04:10.502  1122  1122 I SsBaseTemplateCard: Secondary card pane is null
+07-13 21:04:10.502 10726 10726 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=androidx.activity.ComponentActivity@2195835
+07-13 21:04:10.524   697   828 I ImeTracker: com.google.android.apps.nexuslauncher:8ba9cef1: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+07-13 21:04:10.525 10726 10726 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@2195835 in: DESTROYED
+07-13 21:04:10.525 10726 10726 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+07-13 21:04:10.528 10726 10726 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ImeBackAnimationController@24c5268
+07-13 21:04:10.528 10726 10726 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda13@d0c42e8
+07-13 21:04:10.543 10726 10726 D ViewRootImpl: Skipping stats log for color mode
+07-13 21:04:10.553   697  1915 I ImeTracker: system_server:f8b550b7: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+07-13 21:04:10.563 10726 10726 I ImeTracker: com.example.tiptime:f78f4346: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT fromUser false
+07-13 21:04:10.563 10726 10726 I ImeTracker: com.example.tiptime:f78f4346: onFailed at PHASE_CLIENT_VIEW_SERVED
+07-13 21:04:10.590  1466  1466 I GoogleInputMethodService: GoogleInputMethodService.onFinishInputView():1524
+07-13 21:04:10.592  1466  1466 I GlobeKeyExtension: GlobeKeyExtension.onDeactivate():104
+07-13 21:04:10.593  1466  1466 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.shutdown():122 shutdown()
+07-13 21:04:10.593  1466  1466 W ExtensionWrapper: ExtensionWrapper.setAllowUpdateNavigationBarStyle():810 class iio is not activate
+07-13 21:04:10.600  1122  1122 D InsetsController: hide(ime(), fromIme=false)
+07-13 21:04:10.600  1122  1122 I ImeTracker: com.google.android.apps.nexuslauncher:8ba9cef1: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+07-13 21:04:10.611  1466  1466 W ExtensionWrapper: ExtensionWrapper.setAllowUpdateNavigationBarStyle():810 class iio is not activate
+07-13 21:04:10.612  1466  1466 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():154 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+07-13 21:04:10.620 10726 10743 D IdlingRegistry: Unregistering idling resources: [androidx.compose.ui.test.EspressoLink@da2d20e]
+07-13 21:04:10.621 10726 10743 I TestRunner: finished: calculate_20_percent_tip(com.example.tiptime.TipUITests)

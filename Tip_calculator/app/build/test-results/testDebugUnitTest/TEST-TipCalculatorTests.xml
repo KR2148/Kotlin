@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TipCalculatorTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-07-13T15:14:59" hostname="ZBR-C48RGPYN7TI" time="0.03">
+  <properties/>
+  <testcase name="calculateTip_20PercentNoRoundup" classname="TipCalculatorTests" time="0.03"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
